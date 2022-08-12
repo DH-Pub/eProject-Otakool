@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo/otakool.jpg') }}" width="300px" alt="">
