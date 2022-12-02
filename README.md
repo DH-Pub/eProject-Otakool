@@ -23,3 +23,5 @@ This will generate a main admin base on file (database\factories\AdminFactory.ph
 Run command > php artisan serve 
  
  When setup success access link http://127.0.0.1:8000 (or if you are using VSCode: Ctrl + left Click the link shown)
+
+Go to 0-documents for more information
