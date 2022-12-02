@@ -1,4 +1,4 @@
-Installation Guide
+<strong>Installation Guide</strong>
 
 Otakool – Anime store
 
